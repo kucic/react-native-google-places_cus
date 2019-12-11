@@ -3,7 +3,7 @@
   "description": "react-native-google-places 수정",
   "main": "index.js",
   "author": "punkblood9@gmail.com",
-  "version": "3.1.2",
+  "version": "1.0.0",
   "scripts": {},
   "repository": {
     "type": "git",
@@ -17,15 +17,7 @@
   "homepage": "https://github.com/kucic/react-native-google-places_cus#readme",
   "keywords": [
     "react",
-    "react-native",
-    "react-component",
-    "map",
-    "places",
-    "google-places",
-    "Google Places API",
-    "autocomplete",
-    "ios",
-    "android"
+    "react-native", 
   ],
   "peerDependencies": {
     "react": ">=15.4.0 || ^16.0.0-alpha",
